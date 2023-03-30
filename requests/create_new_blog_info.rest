@@ -2,7 +2,7 @@ POST http://localhost:3003/api/blogs
 Content-Type: application/json
 
 {
-  "title": "Another test run",
+  "title": "Refactor into blog",
   "author": "Mezuo",
   "url": "mezuo.me/about",
   "likes": 112
