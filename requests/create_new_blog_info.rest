@@ -2,7 +2,7 @@ POST http://localhost:3003/api/blogs
 Content-Type: application/json
 
 {
-  "title": "Refactor into blogRouter",
+  "title": "Refactor into config.js",
   "author": "Mezuo",
   "url": "mezuo.me/about",
   "likes": 112
